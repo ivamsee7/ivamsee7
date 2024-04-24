@@ -11,6 +11,6 @@ Skills and Languages:
 Python, Javascript, MySQL, HTML5, CSS3.
 
 Tools and Platform:
-GitHub, Heroku, BootStrap, Visual Studio Code, Git, HackerRank.
+GitHub, Heroku, BootStrap, Visual Studio Code, Git, HackerRank, Leetcode.
 
 
