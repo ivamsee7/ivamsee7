@@ -1,4 +1,4 @@
-## Hey Everyone! I'm Vamsy👋
+## Hey, Everyone! I'm Vamsi👋
 
 - 🔭 I’m currently working on Front-end Projects
 - 🌱 I’m currently learning MERN Stack and Advanced Javascript
@@ -8,7 +8,7 @@
   
 
 Skills and Languages:
-Python, Javascript, MySQL, HTML5, CSS3.
+Python, SQL, MySQL, HTML5, CSS3, and Javascript.
 
 Tools and Platform:
 GitHub, Heroku, BootStrap, Visual Studio Code, Git, HackerRank, Leetcode.
